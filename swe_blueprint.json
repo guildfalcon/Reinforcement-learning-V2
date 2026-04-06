@@ -1,0 +1,12 @@
+{
+  "domain": "swe",
+  "task_unit": "one issue-to-pull-request task grounded in a real repository",
+  "objective": "async agentic RL with token-level optimization over model-generated actions only",
+  "must_have": [
+    "verifiable test commands",
+    "token-exact trajectory capture",
+    "policy version ledger",
+    "staleness filtering",
+    "infrastructure failure quarantine"
+  ]
+}
